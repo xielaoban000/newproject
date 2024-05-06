@@ -12,11 +12,11 @@
     <artifactId>system</artifactId>
 
     <properties>
-        <!-- Maintaining Java version as 22 as per your requirement -->
-        <maven.compiler.source>22</maven.compiler.source>
-        <maven.compiler.target>22</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
 
     <!-- Retaining Spring Boot and other dependencies -->
     <dependencies>
